@@ -12,7 +12,7 @@
 	url = https://github.com/RobotnikAutomation/velodyne_simulator.git
 [submodule "rbcar_common"]
 	path = rbcar_common
-	url = https://github.com/RobotnikAutomation/rbcar_common.git
+	url = https://github.com/CERTH-ITI/rbcar_common.git
 [submodule "rbcar_sim"]
 	path = rbcar_sim
 	url = https://github.com/RobotnikAutomation/rbcar_sim.git
