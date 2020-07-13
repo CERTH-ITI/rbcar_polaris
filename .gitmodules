@@ -6,7 +6,7 @@
 	url = https://github.com/RobotnikAutomation/navigation_experimental.git
 [submodule "robotnik_sensors"]
 	path = robotnik_sensors
-	url = https://github.com/RobotnikAutomation/robotnik_sensors.git
+	url = https://github.com/CERTH-ITI/robotnik_sensors.git
 [submodule "velodyne_simulator"]
 	path = velodyne_simulator
 	url = https://github.com/RobotnikAutomation/velodyne_simulator.git
