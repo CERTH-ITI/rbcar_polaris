@@ -22,3 +22,6 @@
 [submodule "robotnik_msgs"]
 	path = robotnik_msgs
 	url = https://github.com/RobotnikAutomation/robotnik_msgs
+[submodule "open_street_map"]
+	path = open_street_map
+	url = https://github.com/CERTH-ITI/open_street_map
