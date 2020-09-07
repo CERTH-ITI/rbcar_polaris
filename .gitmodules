@@ -25,3 +25,6 @@
 [submodule "open_street_map"]
 	path = open_street_map
 	url = https://github.com/CERTH-ITI/open_street_map
+[submodule "denmpc"]
+	path = denmpc
+	url = https://github.com/CERTH-ITI/denmpc
